@@ -3,3 +3,4 @@
 - HTML CSS
 - Ruby on Rails
 - JavsScript
+- JQuery
